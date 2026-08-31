@@ -1,14 +1,14 @@
 {
   "owner": [],
-  "reseller": [
+  "reseller": [],
+  "staff": [],
+  "partner": [
     {
       "🆔 ID Telegram": "8470654924",
       "🙋 Username": "@HannnOfficial",
-      "⏰ Jam": "10.00",
+      "⏰ Jam": "10.02",
       "📅 Tanggal": "31/08/2026"
     }
   ],
-  "staff": [],
-  "partner": [],
   "fullup": []
 }
